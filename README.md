@@ -5,8 +5,6 @@
 - 📫 You can send me an email to whenix.developer@gmail.com or check my Linkedin
 - 👀 Visit my **[website](https://my-website.juancman.dev/)**
 
-I need to personalize this a little more...
-
 <!---
 juancmandev/juancmandev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
